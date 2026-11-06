@@ -1,0 +1,6 @@
+{
+  "name": "AI to Human Text Converter - 0% ZeroGPT",
+  "description": "استنساخ احترافي لأداة aitohumantextconverter لتنظيف النصوص وإزالة بصمة الذكاء الاصطناعي وتخطي فاحصات AI مثل ZeroGPT بنسبة 0%",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
